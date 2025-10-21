@@ -1,10 +1,17 @@
-- 👋 Hi, I’m Peter Ola
-- 👀 I’m interested in React Native, Native Mobile Dev(Android and iOS), React, Blockchain and Cybersecurity.
-- 🌱 I’m currently learning Solidity and Cybersecurity.
-<!-- - 💞️ I’m looking to collaborate on  -->
-- 📫 How to reach me Olalerupeter@gmail.com
+#👋 Hi, I'm Peter Olaleru.
 
-<!---
-PeterOla/PeterOla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+IT Manager | Cybersecurity & AI Developer
+Focusing on cybersecurity, infrastructure management, and AI-driven threat intelligence systems.
+
+## 🔭 Current Projects
+XAUi — AI trading intelligence that learns and adapts strategies in real time.
+CrossFL — Data driven Football universe merging Premier League and La Liga dynamics.
+
+## 🧠 Interests
+AI in cybersecurity, automation, behavioural threat analysis, and building secure, scalable systems.
+
+## ⚙️ Tech Stack
+Python · TypeScript · Next.js · Prisma · React · Node.js · TailwindCSS · WAF · Sentinel · NordLayer
+
+## 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/peter-ol/)
