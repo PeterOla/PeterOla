@@ -1,4 +1,4 @@
-#👋 Hi, I'm Peter Olaleru.
+# 👋 Hi, I'm Peter Olaleru.
 
 IT Manager | Cybersecurity & AI Developer
 Focusing on cybersecurity, infrastructure management, and AI-driven threat intelligence systems.
