@@ -11,7 +11,7 @@ Focusing on cybersecurity, infrastructure management, and AI-driven threat intel
 AI in cybersecurity, automation, behavioural threat analysis, and building secure, scalable systems.
 
 ## ⚙️ Tech Stack
-Python · TypeScript · Next.js · Prisma · React · Node.js · TailwindCSS · WAF · Sentinel · NordLayer
+Python · Java · Javascript · TypeScript · React · Node.js  WAF · Sentinel · Azure · AWS
 
 ## 📫 Contact
 [LinkedIn](https://www.linkedin.com/in/peter-ol/)
